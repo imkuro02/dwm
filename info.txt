@@ -1,0 +1,3 @@
+https://askubuntu.com/questions/66843/how-to-change-mouse-cursor-and-theme
+> and change the Cursor theme in /usr/share/icons/default/index.theme to your theme.
+
