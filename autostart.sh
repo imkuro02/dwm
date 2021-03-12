@@ -1,4 +1,8 @@
-feh --bg-scale $HOME/Pictures/bg.png
+# start dunst daemon	
+dunst &
+# set bg
+feh --bg-scale $HOME/Pictures/bg.jpg
+# some mouse config
 xinput set-prop 8 295 0 1
 while true; do
 	layout=$(setxkbmap -query | grep "layout" | tail -c 3)

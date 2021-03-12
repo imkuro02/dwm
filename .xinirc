@@ -1,1 +1,1 @@
-exec dmw
+exec dbus-launch dmw

@@ -1,11 +1,12 @@
 https://askubuntu.com/questions/66843/how-to-change-mouse-cursor-and-theme
 > and change the Cursor theme in /usr/share/icons/default/index.theme to your theme.
 
-move .xinitrc to home dir so it launches dmw when you run startx
+move .xinitrc to home (~) dir so it launches dmw when you run startx
 
 lxappearance -> softrware to costumize some gui on dwm
 
 how to add own path to dmenu -> https://gist.github.com/lirenlin/8567315 
-
+edit .profile
+make sure to reboot 
 
 
