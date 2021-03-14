@@ -9,4 +9,6 @@ how to add own path to dmenu -> https://gist.github.com/lirenlin/8567315
 edit .profile
 make sure to reboot 
 
-
+notifications -> sudo apt install dunst.
+make sure dunstrc is in .config/dunst/
+and make sure .xinitrc executes dwm with dbus-launch
